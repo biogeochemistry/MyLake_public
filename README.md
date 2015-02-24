@@ -1,8 +1,8 @@
 MyLake
-****
-This is the Mylake GIT hub. 
+***
+This is the Mylake GIT hub. Check out the wiki for litterature review and user manual.
 MyLake is an open-source 1D process-based ake model written in Matlab and developped at the Norwegien Institute for Water Research. 
-****
+***
 The current public version of MyLake is : MYLAKE v1.2(2007) 
 This version simulates lake hydrodynamics, ice, photon budget, phosphorus speciation, algual dynamics (2 pools) and sediment-water interactions (box model)
 Manual: http://brage.bibsys.no/xmlui/bitstream/handle/11250/212445/4838_200dpi.pdf?sequence=2
