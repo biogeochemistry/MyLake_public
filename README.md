@@ -17,7 +17,7 @@ The manual is available online here : http://brage.bibsys.no/xmlui/bitstream/han
 See the Wiki for get-going sheets. Get the code in the "master" branch. 
 
 ***
-MyLake FOKEMA
+MyLake FOKEMA (2014)
 
 This version adds support for organic matter degradation and improves the photo-bleaching routine. 
 
@@ -26,7 +26,7 @@ Publication: Holmberg, M.; Futter, M. N.; Kotamäki, N.; Fronzek, S.; Forsius, M
 This version has no manual. Get the code in the "fokema" branch.
 
 ****
-MyLake DOCOMO
+MyLake DOCOMO (2015)
 
 This version refines DOC (3 pools), DIC equilibria, O2 dynamics, microbial metabolicm and improved sediment-water interactions (with full diagenetic model for sediment including OM, P, N, C, Fe, Mn, Al, H+)
 
