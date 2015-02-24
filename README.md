@@ -13,7 +13,7 @@ This version adds DOC (3 pools), DIC equilibria, O2 dynamics, microbial metaboli
 To gain access to the Mylake private GitHub send your github username to : rmc@niva.no. Please tell us about your research and applications ! 
 ***
 MyLake is also in R ! 
-MyLake in R simulates hydrodyunamics and ice formation. 
+MyLake in R simulates hydrodynamics and ice formation. 
 See https://github.com/ragnarekker/Ice-modelling
 ***
 Latest updated Feb. 2015
