@@ -6,7 +6,7 @@ MyLake is an open-source 1D process-based lake model written in Matlab and devel
 Mylake is continuously updated as users and contributors add functionalities and modules. All versions are available upon request (see below), however only published version are publicly available. 
 
 ***
-MyLake v1.2 (2007)
+MyLake v1.2.1 (2007)
 
 This is the original version of MyLake. MyLake v1.2 simulates lake hydrodynamics, ice, photon budget, phosphorus speciation, algual dynamics (2 pools) and sediment-water interactions (box model). 
 
