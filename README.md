@@ -34,9 +34,9 @@ Publication: Pending. Contact : rmc@niva.no
 
 To gain access to the Mylake private GitHub send your github username to : rmc@niva.no. Please tell us about your research and applications ! 
 ***
-MyLake is also in R ! 
-MyLake in R simulates hydrodynamics and ice formation. 
+MyLake is also in pyhton ! 
+This version developped at NVE is the latest update to simulate ice formation. 
 See https://github.com/ragnarekker/Ice-modelling
 ***
-Latest updated Feb. 2015
+Latest updated Oct. 2015
 
