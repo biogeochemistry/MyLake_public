@@ -30,13 +30,14 @@ MyLake DOCOMO (2015)
 
 This version refines DOC (3 pools), DIC equilibria, O2 dynamics, microbial metabolicm and improved sediment-water interactions (with full diagenetic model for sediment including OM, P, N, C, Fe, Mn, Al, H+)
 
-Publication: Pending. Contact : rmc@niva.no
+Publication:  Couture RM, DeWit H, Tominaga K, Kiuru P, Markelov I (2015) Oxygen dynamics in a boreal lake responds to long-term changes in climate, ice phenology and DOC inputs. Journal of Geophysical Research: Biogeosciences 120 (11) 2441-2456.  10.1002/2015JG003065
+
+Contact : rmc@niva.no
 
 To gain access to the Mylake private GitHub send your github username to : rmc@niva.no. Please tell us about your research and applications ! 
 ***
-MyLake is also in pyhton ! 
-This version developped at NVE is the latest update to simulate ice formation. 
+MyLake is also in pyhton. This version developped at NVE is the latest update to simulate ice formation. 
 See https://github.com/ragnarekker/Ice-modelling
 ***
-Latest updated Oct. 2015
+Latest updated Sept. 2016
 
