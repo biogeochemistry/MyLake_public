@@ -1,9 +1,9 @@
 MyLake
 ***
-This is the Mylake GIT hub. Check out the wiki for litterature review and user manual.
-MyLake is an open-source 1D process-based lake model written in Matlab and developped mainly at the Norwegien Institute for Water Research, in collaboration with the  Norwegian Energy Directorate (NVE), the Finnish Environment Institute (SYKE), and the University of Waterloo (Ecohydrology Group). 
+This is the Mylake GitHub page. See the wiki for litterature review and user manual.
+MyLake is a 1D process-based lake model written in Matlab. It is developped as an open-source project, currently at the Norwegien Institute for Water Research-NIVA, the University of Helsinki (Finland), and Laval University (Canada). 
 
-Mylake is continuously updated as users and contributors add functionalities and modules. All versions are available upon request (see below), however only published version are publicly available. 
+All versions are available upon request (see below), however only published version are publicly available. 
 
 ***
 MyLake v1.2.1 (2007)
@@ -26,18 +26,19 @@ Publication: Holmberg, M.; Futter, M. N.; Kotamäki, N.; Fronzek, S.; Forsius, M
 This version has no manual. Get the code in the "fokema" branch.
 
 ****
-MyLake DOCOMO (2015)
+MyLake O (2015)
 
 This version refines DOC (3 pools), DIC equilibria, O2 dynamics, microbial metabolicm and improved sediment-water interactions (with full diagenetic model for sediment including OM, P, N, C, Fe, Mn, Al, H+)
 
 Publication:  Couture RM, DeWit H, Tominaga K, Kiuru P, Markelov I (2015) Oxygen dynamics in a boreal lake responds to long-term changes in climate, ice phenology and DOC inputs. Journal of Geophysical Research: Biogeosciences 120 (11) 2441-2456.  10.1002/2015JG003065
 
-Contact : rmc@niva.no
+Contact : raoul.couture@chm.ulaval.ca
 
-To gain access to the Mylake private GitHub send your github username to : rmc@niva.no. Please tell us about your research and applications ! 
+
+To gain access to the Mylake private GitHub send your github username to : raoul.couture@chm.ulaval.ca . Please tell us about your research and applications ! 
+
 ***
-MyLake is also in pyhton. This version developped at NVE is the latest update to simulate ice formation. 
-See https://github.com/ragnarekker/Ice-modelling
+MyLake is also in pyhton. This version developped at the Norwegian Energy Directorate (NVE) with focus on ice properties: See https://github.com/ragnarekker/Ice-modelling
 ***
-Latest updated Sept. 2016
+Latest updated May. 2019
 
