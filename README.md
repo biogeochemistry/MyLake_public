@@ -12,7 +12,7 @@ This is the original version of MyLake. MyLake v1.2 simulates lake hydrodynamics
 
 Publication: Saloranta, T. M.; Andersen, T., MyLake - A multi-year lake simulation model code suitable for uncertainty and sensitivity analysis simulations. Ecol. Model. 2007, 207 (1), 45-60. Contact: tus@nve.no
 
-The manual is available online here : http://brage.bibsys.no/xmlui/bitstream/handle/11250/212445/4838_200dpi.pdf?sequence=2
+The manual is available online here : https://niva.brage.unit.no/niva-xmlui/handle/11250/212445
 
 See the Wiki for get-going sheets. Get the code in the "master" branch. 
 
@@ -40,5 +40,5 @@ To gain access to the Mylake private GitHub send your github username to : raoul
 ***
 MyLake is also in pyhton. This version developped at the Norwegian Energy Directorate (NVE) with focus on ice properties: See https://github.com/ragnarekker/Ice-modelling
 ***
-Latest updated May. 2019
+Latest updated Sept. 2019
 
