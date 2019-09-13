@@ -38,7 +38,7 @@ Contact : raoul.couture@chm.ulaval.ca
 To gain access to the Mylake private GitHub send your github username to : raoul.couture@chm.ulaval.ca . Please tell us about your research and applications ! 
 
 ***
-MyLake is also in pyhton. This version developped at the Norwegian Energy Directorate (NVE) with focus on ice properties: See https://github.com/ragnarekker/Ice-modelling
+MyLake is also in python. This version developped at the Norwegian Energy Directorate (NVE) with focus on ice properties: See https://github.com/ragnarekker/Ice-modelling
 ***
 Latest updated Sept. 2019
 
