@@ -13,18 +13,20 @@ This is the original version of MyLake. MyLake v1.2 simulates lake hydrodynamics
 
 Publication: Saloranta, T. M.; Andersen, T., MyLake - A multi-year lake simulation model code suitable for uncertainty and sensitivity analysis simulations. Ecol. Model. 2007, 207 (1), 45-60. Contact: tus@nve.no
 
-The manual is available online here : https://niva.brage.unit.no/niva-xmlui/handle/11250/212445
+Code: "master" branch in this repository. 
 
-See the Wiki for get-going sheets. Get the code in the "master" branch in this repository. 
+Manual: https://niva.brage.unit.no/niva-xmlui/handle/11250/212445 and wiki for get-going sheets. 
 
 ***
 MyLake FOKEMA (2014)
+
++ DOC degradation and light attenuation by DOC
 
 Publication: Holmberg, M.; Futter, M. N.; Kotamäki, N.; Fronzek, S.; Forsius, M.; Kiuru, P.; Pirttioja, N.; Rasmus, K.; Starr, M.; Vuorenmaa, J., Effects of changing climate on the hydrology of a boreal catchment and lake DOC - probabilistic assessment of a dynamic model chain. Boreal Env. Res. 2014, 19 (suppl. A), 66-82. 
 
 Contact : maria.holmberg@ymparisto.fi
 
-This version has no manual. Get the code in the "fokema" branch in this repository. 
+Code: See "fokema" branch in this repository. 
 
 ****
 MyLake Oxygen (2015)
@@ -43,7 +45,9 @@ MyLake C (2019)
 Publication: Petri Kiuru, Anne Ojala, Ivan Mammarella, Jouni Heiskanen, Kukka-Maaria Erkkilä, Heli Miettinen, Timo Vesala, and Timo Huttula1 (2019) Applicability and consequences of the integration of alternative models for CO2 transfer velocity into a process-based lake model. Biogeosciences (16) 3297–3317. https://doi.org/10.5194/bg-16-3297-2019
 
 Contact: petri.kiuru81@gmail.com
+
 Code: https://github.com/biogeochemistry/MyLake_C
+
 Manual: https://github.com/biogeochemistry/MyLake_C/blob/MyLake_C-gtsv/MyLake_C_manual_june_2019.pdf
 
 ***
@@ -54,8 +58,8 @@ MyLake-Sediment (2019)
 Publication: Coupling Water Column and Sediment Biogeochemical Dynamics: Modeling Internal Phosphorus Loading, Climate Change Responses and Mitigation Measures in Lake Vansjø, Norway (in press) Markelov I, Couture R-M,  Fischer R, Haande S, Van Cappellen P. Journal of Geophysical Research: Biogeosciences. https://doi.org/10.1029/2019JG005254
 
 Contact: raoul.couture@chm.ulaval.ca
+
 Code: https://github.com/biogeochemistry/Sediment-v2.0 and https://github.com/biogeochemistry/MyLake-v2.0
-Manual: pending
 
 Latest updated Dec. 2019
 
