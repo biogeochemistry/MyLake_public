@@ -2,7 +2,7 @@ MyLake
 ***
 This is the Mylake GitHub page. See the wiki here for more info, as well as https://github.com/aemon-j/aquatic-ecosystem-model-library/wiki/MyLake for model description within the Aemon-J model library. 
 
-MyLake is a 1D process-based lake model written in Matlab. It is developped as an open-source project, currently at the Norwegien Institute for Water Research-NIVA, the University of Helsinki (Finland), and Laval University (Canada). 
+MyLake is a 1D process-based lake model written in Matlab. It is developped as an open-source project, currently at the Norwegien Institute for Water Research-NIVA, the University of Helsinki (Finland), and Universite Laval (Canada). 
 
 All versions are available upon request (see below), however only published version are publicly available. 
 
@@ -20,7 +20,7 @@ Manual: https://niva.brage.unit.no/niva-xmlui/handle/11250/212445 and wiki for g
 ***
 MyLake FOKEMA (2014)
 
-+ DOC degradation and light attenuation by DOC
++ DOC degradation and light attenuation by DOC  (FOKEMA module)
 
 Publication: Holmberg, M.; Futter, M. N.; Kotamäki, N.; Fronzek, S.; Forsius, M.; Kiuru, P.; Pirttioja, N.; Rasmus, K.; Starr, M.; Vuorenmaa, J., Effects of changing climate on the hydrology of a boreal catchment and lake DOC - probabilistic assessment of a dynamic model chain. Boreal Env. Res. 2014, 19 (suppl. A), 66-82. 
 
@@ -38,7 +38,7 @@ Publication:  Couture RM, DeWit H, Tominaga K, Kiuru P, Markelov I (2015) Oxygen
 Contact : raoul.couture@chm.ulaval.ca
 
 *** 
-MyLake C (2019) 
+MyLake + C (2019) 
 
 + CO2 module, different gas exchange models 
 
@@ -51,15 +51,26 @@ Code: https://github.com/biogeochemistry/MyLake_C
 Manual: https://github.com/biogeochemistry/MyLake_C/blob/MyLake_C-gtsv/MyLake_C_manual_june_2019.pdf
 
 ***
-MyLake-Sediment (2019)
+MyLake + Sediment (2019)
 
 + Sediment diagenesis module and selected C, N, P ,S, Fe, Al, & Si reactions in water-column
 
-Publication: Coupling Water Column and Sediment Biogeochemical Dynamics: Modeling Internal Phosphorus Loading, Climate Change Responses and Mitigation Measures in Lake Vansjø, Norway (in press) Markelov I, Couture R-M,  Fischer R, Haande S, Van Cappellen P. Journal of Geophysical Research: Biogeosciences. https://doi.org/10.1029/2019JG005254
+Publication: Coupling Water Column and Sediment Biogeochemical Dynamics: Modeling Internal Phosphorus Loading, Climate Change Responses and Mitigation Measures in Lake Vansjø, Norway (2019) Markelov I, Couture R-M,  Fischer R, Haande S, Van Cappellen P. Journal of Geophysical Research: Biogeosciences. https://doi.org/10.1029/2019JG005254
 
 Contact: raoul.couture@chm.ulaval.ca
 
 Code: https://github.com/biogeochemistry/Sediment-v2.0 and https://github.com/biogeochemistry/MyLake-v2.0
 
-Latest updated Dec. 2019
+***
+MyLake + Light (2021)
+
+V 1.1.12 + Dynamic Kd for PAR and UV attenuation
+
+Publication: Attenuation of photosynthetically active radiation and ultraviolet light in response to changing dissolved organic carbon in browning lakes:  Modelling and parametrization (2021) Pilla RM and Couture RM. Limnology and Oceanography https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.11753
+
+Contact: pillarm@miamioh.edu and raoul.couture@chm.ulaval.ca
+
+Code: https://github.com/biogeochemistry/MyLake-Giles
+
+Latest updated May 2021
 
