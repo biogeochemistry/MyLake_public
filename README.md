@@ -62,9 +62,9 @@ Contact: raoul.couture@chm.ulaval.ca
 Code: https://github.com/biogeochemistry/Sediment-v2.0 and https://github.com/biogeochemistry/MyLake-v2.0
 
 ***
-MyLake + Light (2021)
+MyLake v1.2.1 + dynamic light attenuation (2021)
 
-V 1.1.12 + Dynamic Kd for PAR and UV attenuation
++ Dynamic Kd for PAR and UV attenuation
 
 Publication: Attenuation of photosynthetically active radiation and ultraviolet light in response to changing dissolved organic carbon in browning lakes:  Modelling and parametrization (2021) Pilla RM and Couture RM. Limnology and Oceanography https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.11753
 
