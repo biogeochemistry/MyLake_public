@@ -1,6 +1,6 @@
 MyLake
 ***
-This is the Mylake GitHub page. See the wiki here for more info, as well as https://github.com/aemon-j/aquatic-ecosystem-model-library/wiki/MyLake for model description within the Aemon-J model library. 
+This is the Mylake GitHub page. See the wiki here for more info, as well as https://github.com/aemon-j/aquatic-ecosystem-model-library/wiki/MyLake for model description within the Aemon-J model library. See 
 
 MyLake is a 1D process-based lake model written in Matlab. It is developped as an open-source project, currently at the Norwegien Institute for Water Research-NIVA, the University of Helsinki (Finland), and Universite Laval (Canada). 
 
@@ -15,7 +15,7 @@ Publication: Saloranta, T. M.; Andersen, T., MyLake - A multi-year lake simulati
 
 Code: "master" branch in this repository. 
 
-Manual: https://niva.brage.unit.no/niva-xmlui/handle/11250/212445 and wiki for get-going sheets. 
+Manual: https://niva.brage.unit.no/niva-xmlui/handle/11250/212445 . See also get-goint sheet here : https://www.dkit.ie/system/files/files_with_detail/netlake_toolbox_06_mylake.pdf
 
 ***
 MyLake FOKEMA (2014)
