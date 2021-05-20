@@ -6,6 +6,8 @@ MyLake is a 1D process-based lake model written in Matlab. It is developped as a
 
 All versions are available upon request (see below), however only published version are publicly available. 
 
+MyLake is also part of the ongoing Lake EnsemblR effort for 1D hydrodynamic modelling in R : https://github.com/aemon-j/LakeEnsemblR
+
 ***
 MyLake v1.2.1 (2007)
 
