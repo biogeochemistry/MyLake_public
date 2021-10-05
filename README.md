@@ -20,51 +20,51 @@ MyLake
 
 ***
 MyLake + DOC degradation and fixed light attenuation by DOC  
-Version: FOKEMA 
-Year: 2014
-Publication: Holmberg, M.; Futter, M. N.; Kotamäki, N.; Fronzek, S.; Forsius, M.; Kiuru, P.; Pirttioja, N.; Rasmus, K.; Starr, M.; Vuorenmaa, J., Effects of changing climate on the hydrology of a boreal catchment and lake DOC - probabilistic assessment of a dynamic model chain. Boreal Env. Res. 2014, 19 (suppl. A), 66-82. 
-Code: See "fokema" branch in this repository. 
-Contact : maria.holmberg@ymparisto.fi
+- Version: FOKEMA 
+- Year: 2014
+- Publication: Holmberg, M.; Futter, M. N.; Kotamäki, N.; Fronzek, S.; Forsius, M.; Kiuru, P.; Pirttioja, N.; Rasmus, K.; Starr, M.; Vuorenmaa, J., Effects of changing climate on the hydrology of a boreal catchment and lake DOC - probabilistic assessment of a dynamic model chain. Boreal Env. Res. 2014, 19 (suppl. A), 66-82. 
+- Code: See "fokema" branch in this repository. 
+- Contact : maria.holmberg@ymparisto.fi
 
 ****
 MyLake + DOC degradation (3 pools), DIC equilibria, DO dynamics, microbial respiration
-Version: MyLake-O
-Year: 2015
-Publication:  Couture RM, DeWit H, Tominaga K, Kiuru P, Markelov I (2015) Oxygen dynamics in a boreal lake responds to long-term changes in climate, ice phenology and DOC inputs. Journal of Geophysical Research: Biogeosciences 120 (11) 2441-2456.  10.1002/2015JG003065
-Contact : raoul.couture@chm.ulaval.ca
+- Version: MyLake-O
+- Year: 2015
+- Publication:  Couture RM, DeWit H, Tominaga K, Kiuru P, Markelov I (2015) Oxygen dynamics in a boreal lake responds to long-term changes in climate, ice phenology and DOC inputs. Journal of Geophysical Research: Biogeosciences 120 (11) 2441-2456.  10.1002/2015JG003065
+- Contact : raoul.couture@chm.ulaval.ca
 
 *** 
 MyLake + CO2 & CH4, different gas exchange models
-Version: MyLake-C
-Year: 2018-2019
-Publications: Petri Kiuru, Anne Ojala, Ivan Mammarella, Jouni Heiskanen, Kukka-Maaria Erkkilä, Heli Miettinen, Timo Vesala, and Timo Huttula1 (2019) Applicability and consequences of the integration of alternative models for CO2 transfer velocity into a process-based lake model. Biogeosciences (16) 3297–3317. https://doi.org/10.5194/bg-16-3297-2019 & Petri Kiuru,Anne Ojala,Ivan Mammarella,Jouni Heiskanen,Matti Kämäräinen,Timo Vesala,Timo Huttula (2018) Effects of Climate Change on CO2 Concentration and Efflux in a Humic Boreal Lake: A Modeling Study. JGR Biogeosciences https://doi.org/10.1029/2018JG004585 
-Code: https://github.com/biogeochemistry/MyLake_C
-Contact: petri.kiuru81@gmail.com
-Manual: https://github.com/biogeochemistry/MyLake_C/blob/MyLake_C-gtsv/MyLake_C_manual_june_2019.pdf
+- Version: MyLake-C
+- Year: 2018-2019
+- Publications: Petri Kiuru, Anne Ojala, Ivan Mammarella, Jouni Heiskanen, Kukka-Maaria Erkkilä, Heli Miettinen, Timo Vesala, and Timo Huttula1 (2019) Applicability and consequences of the integration of alternative models for CO2 transfer velocity into a process-based lake model. Biogeosciences (16) 3297–3317. https://doi.org/10.5194/bg-16-3297-2019 & Petri Kiuru,Anne Ojala,Ivan Mammarella,Jouni Heiskanen,Matti Kämäräinen,Timo Vesala,Timo Huttula (2018) Effects of Climate Change on CO2 Concentration and Efflux in a Humic Boreal Lake: A Modeling Study. JGR Biogeosciences https://doi.org/10.1029/2018JG004585 
+- Code: https://github.com/biogeochemistry/MyLake_C
+- Contact: petri.kiuru81@gmail.com
+- Manual: https://github.com/biogeochemistry/MyLake_C/blob/MyLake_C-gtsv/MyLake_C_manual_june_2019.pdf
 
 ***
 MyLake + Sediment-water interactions & selected C, N, P ,S, Fe, Al, & Si reactions in water-column
-Version: MyLake-Sediment
-Year: 2019
-Publication:  Markelov I, Couture R-M,  Fischer R, Haande S, Van Cappellen P. Coupling Water Column and Sediment Biogeochemical Dynamics: Modeling Internal Phosphorus Loading, Climate Change Responses and Mitigation Measures in Lake Vansjø, Norway (2019) Journal of Geophysical Research: Biogeosciences. https://doi.org/10.1029/2019JG005254
-Code: https://github.com/biogeochemistry/Sediment-v2.0 and https://github.com/biogeochemistry/MyLake-v2.0
-Contact: raoul.couture@chm.ulaval.ca
+- Version: MyLake-Sediment
+- Year: 2019
+- Publication:  Markelov I, Couture R-M,  Fischer R, Haande S, Van Cappellen P. Coupling Water Column and Sediment Biogeochemical Dynamics: Modeling Internal Phosphorus Loading, Climate Change Responses and Mitigation Measures in Lake Vansjø, Norway (2019) Journal of Geophysical Research: Biogeosciences. https://doi.org/10.1029/2019JG005254
+- Code: https://github.com/biogeochemistry/Sediment-v2.0 and https://github.com/biogeochemistry/MyLake-v2.0
+- Contact: raoul.couture@chm.ulaval.ca
 
 ***
 MyLake + Dynamic Kd for PAR and UV attenuation
-Version: MyLake-O + dynamic Kd
-Year: 2021
-Publication: Attenuation of photosynthetically active radiation and ultraviolet light in response to changing dissolved organic carbon in browning lakes:  Modelling and parametrization (2021) Pilla RM and Couture RM. Limnology and Oceanography https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.11753
-Code: https://github.com/biogeochemistry/MyLake-Giles
-Contact: pillarm@miamioh.edu and raoul.couture@chm.ulaval.ca
+- Version: MyLake-O + dynamic Kd
+- Year: 2021
+- Publication: Attenuation of photosynthetically active radiation and ultraviolet light in response to changing dissolved organic carbon in browning lakes:  Modelling and parametrization (2021) Pilla RM and Couture RM. Limnology and Oceanography https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.11753
+- Code: https://github.com/biogeochemistry/MyLake-Giles
+- Contact: pillarm@miamioh.edu and raoul.couture@chm.ulaval.ca
 
 ***
 MyLake-Sediment + nitrogen uptake by phytoplankton
-Version: MyLake-Sediment + N
-Year: 2021
-Publication: under review
-Code: https://github.com/biogeochemistry/MyLake_Lake-227
-Contact: kateri.salk@duke.edu
+- Version: MyLake-Sediment + N
+- Year: 2021
+- Publication: under review
+- Code: https://github.com/biogeochemistry/MyLake_Lake-227
+- Contact: kateri.salk@duke.edu
 
 ***
 
