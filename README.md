@@ -12,7 +12,8 @@ MyLake is also part of the ongoing Lake EnsemblR effort for 1D hydrodynamic mode
 MyLake
 - Version: 1.1.2
 - Year: 2007
-- Publication: Saloranta, T. M.; Andersen, T., MyLake - A multi-year lake simulation model code suitable for uncertainty and sensitivity analysis simulations. Ecol. Model. 2007, 207 (1), 45-60. Contact: tus@nve.no
+- Publication: Saloranta, T. M.; Andersen, T., MyLake - A multi-year lake simulation model code suitable for uncertainty and sensitivity analysis simulations. Ecol. Model. 2007, 207 (1), 45-60. https://doi.org/10.1016/j.ecolmodel.2007.03.018
+- Contact: tus@nve.no
 - Code: "master" branch in this repository. 
 - Comment: This is the original version of MyLake. MyLake v1.2 simulates lake hydrodynamics, ice and snow thickness, photon budget, phosphorus speciation, algual dynamics (2 pools) and sediment-water interactions (box model). 
 - Manual: https://niva.brage.unit.no/niva-xmlui/handle/11250/212445 , see also https://www.dkit.ie/system/files/files_with_detail/netlake_toolbox_06_mylake.pdf
@@ -22,7 +23,7 @@ MyLake
 MyLake + DOC degradation and fixed light attenuation by DOC  
 - Version: FOKEMA 
 - Year: 2014
-- Publication: Holmberg, M.; Futter, M. N.; Kotamäki, N.; Fronzek, S.; Forsius, M.; Kiuru, P.; Pirttioja, N.; Rasmus, K.; Starr, M.; Vuorenmaa, J., Effects of changing climate on the hydrology of a boreal catchment and lake DOC - probabilistic assessment of a dynamic model chain. Boreal Env. Res. 2014, 19 (suppl. A), 66-82. 
+- Publication: Holmberg, M.; Futter, M. N.; Kotamäki, N.; Fronzek, S.; Forsius, M.; Kiuru, P.; Pirttioja, N.; Rasmus, K.; Starr, M.; Vuorenmaa, J., Effects of changing climate on the hydrology of a boreal catchment and lake DOC - probabilistic assessment of a dynamic model chain. Boreal Env. Res. 2014, 19 (suppl. A), 66-82.  https://helda.helsinki.fi/handle/10138/165169
 - Code: See "fokema" branch in this repository. 
 - Contact : maria.holmberg@ymparisto.fi
 
@@ -30,7 +31,7 @@ MyLake + DOC degradation and fixed light attenuation by DOC
 MyLake + DOC degradation (3 pools), DIC equilibria, DO dynamics, microbial respiration
 - Version: MyLake-O
 - Year: 2015
-- Publication:  Couture RM, DeWit H, Tominaga K, Kiuru P, Markelov I (2015) Oxygen dynamics in a boreal lake responds to long-term changes in climate, ice phenology and DOC inputs. Journal of Geophysical Research: Biogeosciences 120 (11) 2441-2456.  10.1002/2015JG003065
+- Publication:  Couture RM, DeWit H, Tominaga K, Kiuru P, Markelov I (2015) Oxygen dynamics in a boreal lake responds to long-term changes in climate, ice phenology and DOC inputs. Journal of Geophysical Research: Biogeosciences 120 (11) 2441-2456. https://doi.org/10.1002/2015JG003065
 - Contact : raoul.couture@chm.ulaval.ca
 
 *** 
