@@ -10,13 +10,13 @@ MyLake is also part of the ongoing Lake EnsemblR effort for 1D hydrodynamic mode
 
 ***
 MyLake
-Version: 1.1.2
-Year: 2007
-Publication: Saloranta, T. M.; Andersen, T., MyLake - A multi-year lake simulation model code suitable for uncertainty and sensitivity analysis simulations. Ecol. Model. 2007, 207 (1), 45-60. Contact: tus@nve.no
-Code: "master" branch in this repository. 
-Comment: This is the original version of MyLake. MyLake v1.2 simulates lake hydrodynamics, ice and snow thickness, photon budget, phosphorus speciation, algual dynamics (2 pools) and sediment-water interactions (box model). 
-Manual: https://niva.brage.unit.no/niva-xmlui/handle/11250/212445 , see also https://www.dkit.ie/system/files/files_with_detail/netlake_toolbox_06_mylake.pdf
-Contact: tse@nve.no
+*Version: 1.1.2
+*Year: 2007
+*Publication: Saloranta, T. M.; Andersen, T., MyLake - A multi-year lake simulation model code suitable for uncertainty and sensitivity analysis simulations. Ecol. Model. 2007, 207 (1), 45-60. Contact: tus@nve.no
+*Code: "master" branch in this repository. 
+*Comment: This is the original version of MyLake. MyLake v1.2 simulates lake hydrodynamics, ice and snow thickness, photon budget, phosphorus speciation, algual dynamics (2 pools) and sediment-water interactions (box model). 
+*Manual: https://niva.brage.unit.no/niva-xmlui/handle/11250/212445 , see also https://www.dkit.ie/system/files/files_with_detail/netlake_toolbox_06_mylake.pdf
+*Contact: tse@nve.no
 
 ***
 MyLake + DOC degradation and fixed light attenuation by DOC  
