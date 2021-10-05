@@ -37,7 +37,9 @@ MyLake + DOC degradation (3 pools), DIC equilibria, DO dynamics, microbial respi
 MyLake + CO2 & CH4, different gas exchange models
 - Version: MyLake-C
 - Year: 2018-2019
-- Publications: Petri Kiuru, Anne Ojala, Ivan Mammarella, Jouni Heiskanen, Kukka-Maaria Erkkilä, Heli Miettinen, Timo Vesala, and Timo Huttula1 (2019) Applicability and consequences of the integration of alternative models for CO2 transfer velocity into a process-based lake model. Biogeosciences (16) 3297–3317. https://doi.org/10.5194/bg-16-3297-2019 & Petri Kiuru,Anne Ojala,Ivan Mammarella,Jouni Heiskanen,Matti Kämäräinen,Timo Vesala,Timo Huttula (2018) Effects of Climate Change on CO2 Concentration and Efflux in a Humic Boreal Lake: A Modeling Study. JGR Biogeosciences https://doi.org/10.1029/2018JG004585 
+- Publications: 
+    - Petri Kiuru, Anne Ojala, Ivan Mammarella, Jouni Heiskanen, Kukka-Maaria Erkkilä, Heli Miettinen, Timo Vesala, and Timo Huttula1 (2019) Applicability and consequences of the integration of alternative models for CO2 transfer velocity into a process-based lake model. Biogeosciences (16) 3297–3317. https://doi.org/10.5194/bg-16-3297-2019
+    - Petri Kiuru,Anne Ojala,Ivan Mammarella,Jouni Heiskanen,Matti Kämäräinen,Timo Vesala,Timo Huttula (2018) Effects of Climate Change on CO2 Concentration and Efflux in a Humic Boreal Lake: A Modeling Study. JGR Biogeosciences https://doi.org/10.1029/2018JG004585 
 - Code: https://github.com/biogeochemistry/MyLake_C
 - Contact: petri.kiuru81@gmail.com
 - Manual: https://github.com/biogeochemistry/MyLake_C/blob/MyLake_C-gtsv/MyLake_C_manual_june_2019.pdf
