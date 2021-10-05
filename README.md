@@ -57,9 +57,9 @@ MyLake + Sediment-water interactions & selected C, N, P ,S, Fe, Al, & Si reactio
 MyLake + Dynamic Kd for PAR and UV attenuation
 - Version: MyLake-O + dynamic Kd
 - Year: 2021
-- Publication: Attenuation of photosynthetically active radiation and ultraviolet light in response to changing dissolved organic carbon in browning lakes:  Modelling and parametrization (2021) Pilla RM and Couture RM. Limnology and Oceanography https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.11753
+- Publication: Attenuation of photosynthetically active radiation and ultraviolet light in response to changing dissolved organic carbon in browning lakes:  Modelling and parametrization (2021) Pilla RM and Couture RM. Limnology and Oceanography https://doi.org/10.1002/lno.11753
 - Code: https://github.com/biogeochemistry/MyLake-Giles
-- Contact: pillarm@miamioh.edu and raoul.couture@chm.ulaval.ca
+- Contact: pillarm@miamioh.edu
 
 ***
 MyLake-Sediment + nitrogen uptake by phytoplankton
