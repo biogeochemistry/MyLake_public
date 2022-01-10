@@ -65,7 +65,7 @@ MyLake + Dynamic Kd for PAR and UV attenuation
 MyLake-Sediment + nitrogen uptake by phytoplankton
 - Version: MyLake-Sediment + N
 - Year: 2021
-- Publication: under review
+- Publication: Warming combined with experimental eutrophication intensifies lake phytoplankton blooms (2021) Salk KR, Venkiteswaran JJ, Couture RM, Higgins SN, Paterson MJ, Schiff SL. Limnology and Oceanography https://doi.org/10.1002/lno.11982
 - Code: https://github.com/biogeochemistry/MyLake_Lake-227
 - Contact: kateri.salk@duke.edu
 
