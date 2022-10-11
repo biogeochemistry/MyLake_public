@@ -71,5 +71,12 @@ MyLake-Sediment + nitrogen uptake by phytoplankton
 
 ***
 
-Latest updated Oct 2021
+MyLake-2D
+- Version: MyLake-Solar 
+- Year: 2022
+- Publication: Floating solar panels on reservoirs impact phytoplankton populations: A modelling experiment (2022) Exley G, Page T, Thackerey SJ, Folkard AM, Couture RM, Hernandez RR, Cagle AE, Salk KR, Clous L, Whittaker P, Chipps M, Armstron A. Journal of Environmental Management (324) p. 116410. https://doi.org/10.1016/j.jenvman.2022.116410
+- Code: 
+- Contact : g.exley@lancaster.ac.uk
+
+Latest updated Oct 2022
 
